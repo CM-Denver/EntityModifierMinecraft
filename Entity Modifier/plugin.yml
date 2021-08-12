@@ -1,0 +1,7 @@
+version: 1.0
+name: Entity Modifier
+main: com.william.plugin.Main
+
+author: me
+description: Spawns in a named blaze and plays the 'horse death' sound whenever any mob dies!
+
